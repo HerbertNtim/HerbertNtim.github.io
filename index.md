@@ -1,7 +1,19 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
-![Image of fast.ai logo](images/logo.png)
+# Learning by Building
 
-## This is a title
+I'm a software developer and MPhil Computer Engineering student at KNUST, Ghana. I'm interested in machine learning, deep learning, computer vision, and building software that solves real-world problems.
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+This blog documents my learning journey through hands-on projects, experiments, and lessons in AI and software engineering.
+
+I believe in learning by doing, sharing what I discover, and continuously improving through practice.
+
+## What I'm Exploring
+
+- Machine Learning and Deep Learning
+- Computer Vision and Image Processing
+- Data Science and MLOps
+- Software Engineering and Open Source
+
+## Building in Public
+
+Here, I'll share my projects, technical notes, challenges, and lessons learned along the way.
