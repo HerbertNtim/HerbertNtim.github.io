@@ -1,26 +1,21 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
+title: Learning by Building
+description: >
+  A blog about machine learning, deep learning, computer vision,
+  data science, and software engineering through practical projects.
+github_username: HerbertNtim
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+# Optional contact details
+email: herbert15@gmail.com
+email: herbert2023@gmail.com
+twitter_username: https://x.com/hntim0829
 
-# Email and twitter are optional:
-email:
-twitter_username:
+# Enable LaTeX math equation support
+use_math: true
 
-# Set this to true to get LaTeX math equation support
-use_math:
-
-# Add your Google Analytics ID here if you have one and want to use it
+# Google Analytics ID (optional)
 google_analytics:
 
-# Everything below here can be ignored, unless you want to change the theme entirely
+# Theme and plugins
 theme: minima
 plugins:
   - jekyll-feed
@@ -29,7 +24,7 @@ plugins:
   - jekyll-github-metadata
 
 titles_from_headings:
-  enabled:     true
+  enabled: true
   strip_title: true
   collections: true
 
