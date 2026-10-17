@@ -1,5 +1,5 @@
 
-# Learning by Building
+# Herbert Ntim
 
 I'm a software developer and MPhil Computer Engineering student at KNUST, Ghana. I'm interested in machine learning, deep learning, computer vision, and building software that solves real-world problems.
 
